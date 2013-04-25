@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Wildwind's Blog]]></title>
+  <link href="http://wildwindjen.github.io/atom.xml" rel="self"/>
+  <link href="http://wildwindjen.github.io/"/>
+  <updated>2013-04-25T07:57:20+08:00</updated>
+  <id>http://wildwindjen.github.io/</id>
+  <author>
+    <name><![CDATA[Wildwind Jen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Try]]></title>
+    <link href="http://wildwindjen.github.io/blog/2013/04/25/first-try/"/>
+    <updated>2013-04-25T07:54:00+08:00</updated>
+    <id>http://wildwindjen.github.io/blog/2013/04/25/first-try</id>
+    <content type="html"><![CDATA[<h1>Try It</h1>
+
+<ul>
+<li>Test 中文</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
